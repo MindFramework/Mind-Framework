@@ -18,12 +18,6 @@ The long-term goal is to create an **AI-powered agent** that determines personal
 * **Behavioral traits** (body language, level of dominance/ submissiveness, decision making, etc.)  
 * **Neurobiological data** (brain scans)
 
-**Disclaimer:** **I’m going to sell most of my investment (maybe before bonding) because I need to pay for my rent.** I can’t guarantee any profits from the token and I have no idea how I will monetize it. I also won’t personally shill the coin after bonding. You should treat buying it as gambling on a meme coin. 
-
-I am launching this project on my own, and the more ambitious aspects will require funding that might be unrealistic. The minimum I will achieve is building out a written test and an AI agent that can predict your personality type based on your responses.
-
-The coin may eventually go to zero once AI automates all intellectual labor, making it easy for others to replicate this work. But until then, I’ll do my best to make the project successful.
-
 ### **Roadmap**
 
 1. **Build an official website** – Establish an online presence for the project.  
