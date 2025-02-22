@@ -1,8 +1,10 @@
 # Mind-Framework
 
+(BETA) AI Agent to assess your personality type: https://poe.com/Mind-Practitioner
+
 ### Disclaimer
 
-**I’m going to sell most of my holdings (maybe before bonding) because I need to pay for my rent. I can’t guarantee any profits from the token and I have no idea how I will monetize it. I also won’t personally shill the coin once I have enough money to avoid homelessness. You should treat buying it as gambling on a meme coin.**
+**I’m going to sell part of my holdings (maybe before bonding) because I need to pay for my rent. I can’t guarantee any profits from the token. I also won’t personally shill the coin once I have enough money to avoid homelessness. You should treat buying it as gambling on a meme coin.**
 
 I am launching this project on my own, and the more ambitious aspects will require funding that might be unrealistic. The minimum I will achieve is building out a written test and an AI agent that can predict your personality type based on your responses.
 
