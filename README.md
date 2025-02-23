@@ -10,6 +10,8 @@ I am launching this project on my own, and the more ambitious aspects will requi
 
 The coin **may eventually go to zero** once AI automates all intellectual labor, making it easy for others to replicate my work. But until then, I’ll do my best to make the project successful.
 
+CA: EWTmzypeze1dXc9Tf9zoAZPDjpj5mWtzpURhq4ngdoSi
+
 ### **What Is the Mind Framework?**
 
 I am developing a **new personality model** superior to the MBTI that can accurately describe people’s personality types/brain patterns. In addition, I'm pioneering a new approach to predict these types based on body language in addition to a traditional written test.
